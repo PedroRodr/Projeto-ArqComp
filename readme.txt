@@ -1,0 +1,1 @@
+Há duas versões do código porque dependendo do sistema operativo, o código pode ficar ilegível por conta da identação. Porém ambos funcionam no simulador.
